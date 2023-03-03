@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Du</h1>
-<h3 align="center">A passionate of relax</h3>
+<h3 align="center">A passionate for relax</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baolach123&label=Profile%20views&color=0e75b6&style=flat" alt="baolach123" /> </p>
 
